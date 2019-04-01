@@ -34,3 +34,9 @@ Axiom will not work with the following:
  - [Impact](https://impactdevelopment.github.io/)
  - [Asuna](https://www.github.com/ZeroMemes/Asuna/)
  - And countless others...
+ 
+ ## Credits
+ 
+ - [0x22](https://github.com/0-x-2-2): Removal of authentication
+ - [Brady](https://github.com/ZeroMemes): Development of Allatori reversal tools
+ - [Babbaj](https://github.com/babbaj): ASM wizard
