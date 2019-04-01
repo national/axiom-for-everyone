@@ -8,6 +8,16 @@ Axiom for Everyone™ is a project aimed at providing Axiom Player Assistance Mo
 software and Open Source Software (OSS) license compliance. At Axiom for Everyone™, we have dedicated time to reverse engineering Axiom
 Player Assistance Mod and its obfuscation methods to accomplish our goals.
 
+## Notice
+
+We are not the maintainers of Axiom, we only provide modified jars for the public that free the constraints in place by the original jars.
+
+## Sponsored By
+
+ - [ForgeHax](https://github.com/fr1kin/ForgeHax)
+ - [Future](https://www.futureclient.net/)
+ - [Impact](https://impactdevelopment.github.io/)
+
 ## Compatibility
 
 Axiom will not work with the following:
