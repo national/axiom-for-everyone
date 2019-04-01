@@ -22,8 +22,6 @@ We are not the maintainers of Axiom, we only provide modified jars for the publi
 
 Axiom will not work with the following:
  - [ForgeHax](https://github.com/fr1kin/ForgeHax)
- - [Future](https://www.futureclient.net/)
  - [Impact](https://impactdevelopment.github.io/)
- - [Kami](https://www.github.com/ZeroEightySix/Kami/)
  - [Asuna](https://www.github.com/ZeroMemes/Asuna/)
  - And countless others...
