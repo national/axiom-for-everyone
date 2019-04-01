@@ -1,4 +1,13 @@
-<div style="text-align:center"><img src ="https://i.imgur.com/DlPOE6J.png"/></div>
+<!-- Yeah... I love HTML, so what? -->
+<p align="center">
+ <img src ="https://i.imgur.com/DlPOE6J.png" width="50%" height="50%"/>
+ <br>
+ <b>
+  <a href="https://github.com/0-x-2-2">0x22</a> |
+  <a href="https://github.com/ZeroMemes">Brady</a> |
+  <a href="https://github.com/babbaj">Babbaj</a>
+ </b>
+</p>
 
 # Axiom for Everyone
 
