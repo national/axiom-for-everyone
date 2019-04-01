@@ -1,4 +1,4 @@
-![No Anime](https://i.kym-cdn.com/entries/icons/original/000/027/108/anime.jpg)
+<div style="text-align:center"><img src ="https://i.imgur.com/DlPOE6J.png"/></div>
 
 # Axiom for Everyone
 
