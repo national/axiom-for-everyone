@@ -44,3 +44,11 @@ Axiom will not work with the following:
  - [Brady](https://github.com/ZeroMemes): Development of Allatori reversal tools
  - [Babbaj](https://github.com/babbaj): ASM wizard
  - [fth](https://github.com/wine): Doing absolutely nothing, I just put myself here
+
+<p align="center">
+ <img src ="https://i.imgur.com/YYgVHOe.png" width="10%" height="10%"/>
+ <br>
+ <a href="https://github.com/github/dmca/blob/master/2019/04/2019-04-04-Axiom.md">2019-04-04-Axiom<a/>
+ <br>
+ <a href="https://github.com/github/dmca/blob/master/2019/04/2019-04-11-Axiom-CounterNotice.md">2019-04-11-Axiom-CounterNotice<a/>
+</p>
