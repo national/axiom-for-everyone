@@ -5,7 +5,8 @@
  <b>
   <a href="https://github.com/0-x-2-2">0x22</a> |
   <a href="https://github.com/ZeroMemes">Brady</a> |
-  <a href="https://github.com/babbaj">Babbaj</a>
+  <a href="https://github.com/babbaj">Babbaj</a> |
+  <a href="https://github.com/wine">fth</a>
  </b>
 </p>
 
@@ -26,6 +27,7 @@ We are not the maintainers of Axiom, we only provide modified jars for the publi
  - [ForgeHax](https://github.com/fr1kin/ForgeHax)
  - [Future](https://www.futureclient.net/)
  - [Impact](https://impactdevelopment.github.io/)
+ - [Hat](https://wine.github.io/hat/)
 
 ## Compatibility
 
@@ -33,6 +35,7 @@ Axiom will not work with the following:
  - [ForgeHax](https://github.com/fr1kin/ForgeHax)
  - [Impact](https://impactdevelopment.github.io/)
  - [Asuna](https://www.github.com/ZeroMemes/Asuna/)
+ - [Asuna for everyone](https://github.com/national/asuna-for-everyone)
  - And countless others...
  
  ## Credits
@@ -40,3 +43,4 @@ Axiom will not work with the following:
  - [0x22](https://github.com/0-x-2-2): Removal of authentication
  - [Brady](https://github.com/ZeroMemes): Development of Allatori reversal tools
  - [Babbaj](https://github.com/babbaj): ASM wizard
+ - [fth](https://github.com/wine): Doing absolutely nothing, I just put myself here
