@@ -43,7 +43,7 @@ Axiom will not work with the following:
  - [0x22](https://github.com/0-x-2-2): Removal of authentication
  - [Brady](https://github.com/ZeroMemes): Development of Allatori reversal tools
  - [Babbaj](https://github.com/babbaj): ASM wizard
- - [fth](https://github.com/wine): Doing absolutely nothing, I just put myself here
+ - [fth](https://github.com/wine): Filing counter claim
 
 <p align="center">
  <img src ="https://i.imgur.com/YYgVHOe.png" width="10%" height="10%"/>
